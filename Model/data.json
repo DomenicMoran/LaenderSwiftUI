@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "countryName" : "Deutschland",
+        "imageName": "germany",
+        "details": [
+          "Einwohner:\n82.792.351",
+          "Hauptstadt:\nBerlin",
+          "Währung:\nEuro"
+        ]
+    },
+    {
+        "id": 1,
+        "countryName" : "Frankreich",
+        "imageName": "france",
+        "details": [
+          "Einwohner:\n66.962.166",
+          "Hauptstadt:\nParis",
+          "Währung:\nEuro"
+        ]
+    },
+    {
+        "id": 2,
+        "countryName" : "Österreich",
+        "imageName": "austria",
+        "details": [
+          "Einwohner:\n8.822.267",
+          "Hauptstadt:\nWien",
+          "Währung:\nEuro"
+        ]
+    },
+    {
+        "id": 3,
+        "countryName" : "Schweden",
+        "imageName": "sweden",
+        "details": [
+          "Einwohner:\n10.120.242",
+          "Hauptstadt:\nStockholm",
+          "Währung:\nEuro"
+        ]
+    },
+    {
+        "id": 4,
+        "countryName" : "Italien",
+        "imageName": "italy",
+        "details": [
+          "Einwohner:\n60.483.973",
+          "Hauptstadt:\nRom",
+          "Währung:\nEuro"
+        ]
+    },
+    {
+        "id": 5,
+        "countryName" :  "Spanien",
+        "imageName" : "spain",
+        "details" : [
+          "Einwohner:\n46.658.447",
+          "Hauptstadt:\nMadrid",
+          "Währung:\nEuro"
+        ]
+    },
+    {
+        "id": 6,
+        "countryName" :  "Portugal",
+        "imageName" : "portugal",
+        "details" : [
+          "Einwohner:\n10.291.027",
+          "Hauptstadt:\nLissabon",
+          "Währung:\nEuro"
+        ]
+    },
+    {
+        "id": 7,
+        "countryName" :  "Griechenland",
+        "imageName" : "greece",
+        "details" : [
+          "Einwohner:\n10.741.165",
+          "Hauptstadt:\nAthen",
+          "Währung:\nEuro"
+        ]
+    },
+    {
+        "id": 8,
+        "countryName" :  "Lettland",
+        "imageName" : "latvia",
+        "details" : [
+          "Einwohner:\n1.934.379",
+          "Hauptstadt:\nRiga",
+          "Währung:\nEuro"
+        ]
+    }
+]
